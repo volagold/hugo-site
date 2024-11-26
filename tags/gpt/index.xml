@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gpt on lifei.ai | AI blogs</title>
+    <link>https://lifei.ai/tags/gpt/</link>
+    <description>Recent content in gpt on lifei.ai | AI blogs</description>
+    <image>
+      <title>lifei.ai | AI blogs</title>
+      <url>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lifei.ai/tags/gpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT has taken the world by storm. What&#39;s Next?</title>
+      <link>https://lifei.ai/posts/2023-04-06-chatgpt/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2023-04-06-chatgpt/</guid>
+      <description>On April 11, 2022, I wrote the following:
+&amp;ldquo;While current models may still have limited capacity, I&amp;rsquo;m optimistic that, we should see better and better AI models coming out in the future, and one day machines can have enough intelligence to handle tasks and jobs we do today.&amp;rdquo;
+7 months later, OpenAI released ChatGPT, the performance of which has stunned the public. It can chat, write stories, debug code&amp;hellip;there hasn&amp;rsquo;t been a chatbot that is so intelligent and so fluent in dialogues with human.</description>
+    </item>
+  </channel>
+</rss>

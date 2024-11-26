@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on lifei.ai | AI blogs</title>
+    <link>https://lifei.ai/tags/hugo/</link>
+    <description>Recent content in hugo on lifei.ai | AI blogs</description>
+    <image>
+      <title>lifei.ai | AI blogs</title>
+      <url>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lifei.ai/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Switched to Hugo</title>
+      <link>https://lifei.ai/posts/2023-04-04-jekyll-to-hugo/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2023-04-04-jekyll-to-hugo/</guid>
+      <description>Previously, I use Jekyll to build my website. After careful consideration, now I decide to switch to Hugo. The main reason is straightforward:
+Speed.
+Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rsquo;s official website. My initial reasons for choosing Jekyll include its integration with GitHub Pages, good documentation, wide range of themes and plugins. But when I have some 20 posts, it takes me 5~6+ seconds to build the site, and it takes around 4 seconds for reflecting edits in live preview, which is almost unbearable!</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lifei.ai | AI blogs</title>
+    <link>https://lifei.ai/</link>
+    <description>Recent content on lifei.ai | AI blogs</description>
+    <image>
+      <title>lifei.ai | AI blogs</title>
+      <url>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lifei.ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Options Trading and the Black-Scholes Model</title>
+      <link>https://lifei.ai/posts/2024-11-26-options/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2024-11-26-options/</guid>
+      <description>Basics An option is a financial contract that gives you the right (but not obligation) to buy or sell usually 100 shares of the underlying asset at a strike price $X$ at or before some specific date, usually Fridays. The price of an option is quoted on a per share basis, for example 5.5 USD. To buy the option, you have to pay 5.5 x 100 = 550 USD. If the option later rises to 6.</description>
+    </item>
+    <item>
+      <title>Vision Models</title>
+      <link>https://lifei.ai/posts/2024-02-12-vision-models/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2024-02-12-vision-models/</guid>
+      <description>At the same time LLMs are changing the world, we have witnessed fast progress in AI image and video generation. AI models are now able to synthesis high quality, high fidelity and high resolution images via text prompting. Mainstream generative model architectures have shifted from VAEs, flows and GANs to diffusions and transformers. In this post I take notes of several vision models. It may be regularly updated to reflect latest research development.</description>
+    </item>
+    <item>
+      <title>Better Transformers</title>
+      <link>https://lifei.ai/posts/2023-08-31-better-transformers/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2023-08-31-better-transformers/</guid>
+      <description>In this post I will walk through the transformer layer and several improvements over this architecture that are commonly employed in many popular open source large language models (LLMs) today, for example Llama. Discussed include SwiGLU and RMSNorm layers, RoPE and ALiBi position embeddings; and finally Flash Attention for scaling attention calculation to long sequences. We will use Llama source code as example implementation, and toward the end I&amp;rsquo;ll go through the rest of Llama&amp;rsquo;s source code.</description>
+    </item>
+    <item>
+      <title>ChatGPT has taken the world by storm. What&#39;s Next?</title>
+      <link>https://lifei.ai/posts/2023-04-06-chatgpt/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2023-04-06-chatgpt/</guid>
+      <description>On April 11, 2022, I wrote the following:
+&amp;ldquo;While current models may still have limited capacity, I&amp;rsquo;m optimistic that, we should see better and better AI models coming out in the future, and one day machines can have enough intelligence to handle tasks and jobs we do today.&amp;rdquo;
+7 months later, OpenAI released ChatGPT, the performance of which has stunned the public. It can chat, write stories, debug code&amp;hellip;there hasn&amp;rsquo;t been a chatbot that is so intelligent and so fluent in dialogues with human.</description>
+    </item>
+    <item>
+      <title>Why I Switched to Hugo</title>
+      <link>https://lifei.ai/posts/2023-04-04-jekyll-to-hugo/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2023-04-04-jekyll-to-hugo/</guid>
+      <description>Previously, I use Jekyll to build my website. After careful consideration, now I decide to switch to Hugo. The main reason is straightforward:
+Speed.
+Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rsquo;s official website. My initial reasons for choosing Jekyll include its integration with GitHub Pages, good documentation, wide range of themes and plugins. But when I have some 20 posts, it takes me 5~6+ seconds to build the site, and it takes around 4 seconds for reflecting edits in live preview, which is almost unbearable!</description>
+    </item>
+    <item>
+      <title>Previous Blog Posts</title>
+      <link>https://lifei.ai/posts/2023-04-03-previous-posts/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2023-04-03-previous-posts/</guid>
+      <description>See here 👉https://lifeitech.github.io</description>
+    </item>
+  </channel>
+</rss>
