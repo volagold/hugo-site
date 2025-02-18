@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>black-scholes on lifei.ai | AI blogs</title>
+    <link>https://lifei.ai/tags/black-scholes/</link>
+    <description>Recent content in black-scholes on lifei.ai | AI blogs</description>
+    <image>
+      <title>lifei.ai | AI blogs</title>
+      <url>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lifei.ai/tags/black-scholes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Options Trading and the Black-Scholes Model</title>
+      <link>https://lifei.ai/posts/2024-11-26-options/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/2024-11-26-options/</guid>
+      <description>Basics An option is a financial contract that gives you the right (but not obligation) to buy or sell usually 100 shares of the underlying asset at a strike price $X$ at or before some specific date, usually Fridays. The price of an option is quoted on a per share basis, for example 5.5 USD. To buy the option, you have to pay 5.5 x 100 = 550 USD. If the option later rises to 6.</description>
+    </item>
+  </channel>
+</rss>
