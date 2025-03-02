@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lifei.ai/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📌 Thoughts</title>
+      <link>https://lifei.ai/posts/x/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/posts/x/</guid>
+      <description>[03.01] Zelenskyy wants his own safety guaranteed on the clash: ① no chance of security guarantee to Ukraine from Trump because that means putting the US on the very frontline with Russia for nothing. ② To Zelenskyy, the mineral deal is almost a dishonest prelude of partition. In the event of invasion, American workers can be retreated timely and safely, leaving him and his country at risk.
+This is really a tough situation for Ukraine.</description>
+    </item>
     <item>
       <title>Options Trading and the Black-Scholes Model</title>
       <link>https://lifei.ai/posts/2024-11-26-options/</link>
@@ -57,7 +65,7 @@ Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rs
       <link>https://lifei.ai/posts/2023-04-03-previous-posts/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://lifei.ai/posts/2023-04-03-previous-posts/</guid>
-      <description>See here 👉https://lifeitech.github.io</description>
+      <description>See here 👉https://volagold.github.io</description>
     </item>
   </channel>
 </rss>
